@@ -1,6 +1,6 @@
-# Michael Shafae's Portfolio
+# Michael Shafae's Awesome Portfolio
 
-I am a computer science student at CSUF and I expect to graduate in 2028.
+I am a computer science student at [CSUF](http://fullerton.edu) and I expect to graduate in 2028.
 
 ## Favorite CPSC 120L Labs
 * Lab 5, part 1
